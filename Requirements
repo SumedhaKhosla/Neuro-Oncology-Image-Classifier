@@ -1,0 +1,8 @@
+# Requirements
+To run this project, you need the following Python packages:
+
+numpy
+matplotlib
+PIL (Pillow)
+torch (PyTorch)
+torchvision
